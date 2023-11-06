@@ -1,2 +1,4 @@
 # project2
-web devel
+web development
+
+HTML,CSS
